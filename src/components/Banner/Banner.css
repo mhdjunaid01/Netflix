@@ -1,0 +1,49 @@
+.Banner{
+ 
+   background-size: cover;
+   height: 500px;
+   color: white;
+   
+}
+.content{
+    padding-top: 140px;
+    height: 190px;
+    padding-left: 15px;
+    font-size:10px;
+
+}
+.title{
+    font-size: 3rem;
+    font-weight:800;
+    padding-bottom: 0.3rem;
+}
+.button{
+    color: white;
+    outline:none;
+    border: none;
+    font-weight: 700;
+    border-radius: 5px;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    background-color: rgba(51, 51, 51, .5);
+    cursor: pointer;
+}
+.button:hover{
+    color:black;
+    background-color: aliceblue;
+    margin-right: 1rem;
+
+}
+.discription{
+    width:45rem;
+    line-height: 1.3;
+    font-size: 1crem;
+    height:80px;
+    max-width: 360px;
+}
+.fade_bottom{
+    height: 10.6rem;
+    background-image: linear-gradient(180deg,transparent,rgba(37,37,37,.61),#111);
+}
